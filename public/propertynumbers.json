@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "cityName": "Paris",
+    "propertyNumbers": 10,
+    "picture": "https://i.postimg.cc/BQV3gMBk/pexels-photo-532568.jpg"
+  },
+  {
+    "id": 2,
+    "cityName": "New York",
+    "propertyNumbers": 40,
+    "picture": "https://i.postimg.cc/254fCmNN/pexels-photo-325185.jpg"
+  },
+  {
+    "id": 3,
+    "cityName": "Los Angeles",
+    "propertyNumbers": 34,
+    "picture": "https://i.postimg.cc/PfDdQSmW/pexels-binyamin-mellish-186077.jpg"
+  }
+]

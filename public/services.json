@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "propertyTitle": "Land Properties",
+      "propertyPrice": 150000,
+      "picture": "https://i.postimg.cc/bY5tFyV7/1istockphoto-1263902259-612x612.jpg",
+      "propertyDetails": "In surveying and property law, a land description or legal description is a written statement that delineates the boundaries of a piece of real property. In the written transfer of real property, it is universally required that the instrument of conveyance (deed) include a written description of the property.A sleek and modern apartment with high-end finishes. Ideal for urban living."
+    },
+    {
+      "id": 2,
+      "propertyTitle": "Architecture Plan",
+      "propertyPrice": 120000,
+      "picture": "https://i.postimg.cc/8PjRb1MY/depositphotos-641228430-stock-photo-draft-architectural-design-hand-drawing.webp",
+      "propertyDetails": "A building or any structure consists of the external skin, internal members and services, which combine to define its function. The function is the basic necessity or identity of any building type. Just as the users differ with the diverse use of a building, the need to make the building a comfortable space for them becomes a priority. An architect must achieve user comfort by incorporating various services within the structure. Building services metaphorically refers to the nervous system in the human body, which isn’t visible and superficial but precisely controls numerous functions and specific tasks. This property makes it an integral part of any building or structure. Building services, which transform a shell into a functional habitat, have become vital and unavoidable for architects."
+    },
+    {
+      "id": 3,
+      "propertyTitle": "Buy Apartments",
+      "propertyPrice": 500000,
+      "picture": "https://i.postimg.cc/sxbGBmZj/3istockphoto-1256570277-612x612.jpg",
+      "propertyDetails": "Apartment Services means the services provided by the Resort Owner for the benefit of the Apartments, the Apartment Infrastructure and the Guests, including renovation, repair, decoration, maintenance, cleaning, supply of bedlinen and towels, washing sundries and all other similar services. A/S af 3. Juni 1986 Board means the board of directors appointed by the Resort Owner to govern its affairs. Club La Santa Internal Credit Card means the credit card issued by the Resort management upon request to Timeshare Owners who are not members of ITSO La Santa. Code of Conduct means the document created by the Resort Owner which defines acceptable behaviour within the Resort by both guests and staff. Commencement has the meaning ascribed thereto in (C) of the preamble. Common Parts means all the common parts, shared areas and shared services, which form part of the Resort. Existing Agreement has the meaning ascribed thereto in (A) of the preamble. Furnishings means the furnishings, household effects and equipment of each individual Apartment."
+    },
+    {
+      "id": 4,
+      "propertyTitle": "Ready Flat",
+      "propertyPrice": 800000,
+      "picture": "https://i.postimg.cc/13hNsWQM/2istockphoto-1276724606-612x612.jpg",
+      "propertyDetails":"Is there a difference between a flat and an apartment? Yes...and it goes beyond the usage of each term in American and British English. While it’s true that Brits are more likely to use the word flat than apartment, and vice versa, there are actual differences in their meaning, albeit subtle ones.As mentioned above, the word flat refers to an abode made up of several rooms on a single floor within a building that contains other, similar residences.Apartments,on the other hand, are generally considered to be the flat’s more well-to-do cousin. While they are still formed from a number of rooms, they can be set across more than one floor and are also thought to be better appointed and more luxurious than a simple flat."
+    },
+    {
+      "id": 5,
+      "propertyTitle": "Interior & Exterior Design",
+      "propertyPrice": 200000,
+      "picture": "https://i.postimg.cc/t43nThRb/4istockphoto-1198218812-612x612.jpg",
+      "propertyDetails": "Interior and exterior are terms commonly used to describe the different aspects or locations of a physical space or object.The term interior refers to the inside or inner part of something. It typically refers to the inside of a building or space, such as the rooms, hallways, and other enclosed areas within a structure. For example, when talking about a house, the interior would include the living room, bedrooms, kitchen, and other indoor spaces.On the other hand, exterior refers to the outside or outer part of something. It refers to the exterior walls, facade, roof, and other external elements of a building or space. It encompasses everything that is visible from the outside, including the entryway, windows, landscaping, and overall architectural design.In a broader sense, the terms interior and exterior can also be used to describe the inner and outer aspects of other objects or concepts. For instance, when talking about the interior and exterior of a car, the interior would refer to the seats, dashboard, and other components inside the vehicle, while the exterior would encompass the body, wheels, and external features of the car.In summary, the meaning of interior and exterior is essentially the differentiation between the inside and outside parts of a physical space or object."
+    },
+    {
+      "id": 6,
+      "propertyTitle": "Home Logistics",
+      "propertyPrice": 600000,
+      "picture": "https://i.postimg.cc/ZKyyGG1C/5istockphoto-1273548089-612x612.jpg",
+      "propertyDetails": "In-house or in-plant logistics have become an essential ingredient in lean manufacturing – integrating production processes with the external supply chain. With deep expertise in the efficient flow of goods, Yusen Logistics brings extra value to the process.Our in-plant professionals can identify your pain points and then tailor logistics solutions to integrate with our global network while maintaining the highest levels of quality and just-in-time replenishment. That’s why major auto manufacturers entrust us with their Just-in-time (JIT)-critical processes."
+    }
+  ]
+  
